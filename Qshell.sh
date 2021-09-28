@@ -7,8 +7,8 @@ REVERSE="yes"
 # help function ####################################################################
 function help_menu(){
         cat <<'END'
-Usage: qshell [OPTION] [arguments]
-       qshell [-h] [--help] [-L HOST] [--lhost LHOST] [-P PORT] [--lport LPORT] 
+Usage: Qshell [OPTION] [arguments]
+       Qshell [-h] [--help] [-L HOST] [--lhost LHOST] [-P PORT] [--lport LPORT] 
               [-c] [--clipboard] [-v] [--version] [-l] [--list] 
               [-b] [--bind] [-t] [--type]
               
