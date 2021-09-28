@@ -81,5 +81,5 @@ to list all reverse/bind shells
 
 ```bash
   echo $PATH
-  mv Qshell.sh /pathIn/yourPATHvariable
+  mv Qshell.sh /pathIn/yourPATHvariable/Qshell
 ```
